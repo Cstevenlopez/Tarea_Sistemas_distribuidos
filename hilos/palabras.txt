@@ -1,0 +1,9 @@
+dia
+noche
+hoy
+despues
+dia
+hola
+adios
+despues
+dia
